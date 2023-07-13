@@ -13,7 +13,7 @@ Program structure:
 The `db.php` file should create the database itself if it does not find this database, but if it does not work, you can upload this folder to the server.
 The solution was tested on Open Server with MySQL-8 settings.
 ____
-# 🇷🇺 Скрипт гостевой книги
+# 🇷🇺 Список пользователей
 Мое решение тестового задания для веб-студии на позицию Junior PHP Developer.
 
 Структура программы:
